@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f346eee-a322-4d2f-b425-8d90336fd764" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\IDEA\SpringMaven\localRepository" />
+        <option name="mavenHome" value="C:/IDEA/SpringMaven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\IDEA\SpringMaven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eTkbYIu7pwfhkh2cMZphdRDRcr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.17257683" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\E盘(文件)\IdeaProjects\Yimning\FaceMaskSample" />
+      <recent name="C:\E盘(文件)\IdeaProjects\Yimning\FaceMaskSample\lib" />
+      <recent name="C:\E盘(文件)\IdeaProjects\FaceMaskSample" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.baidu.test.main" />
+      <recent name="com.cameratest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\E盘(文件)\IdeaProjects\Yimning\FaceMaskSample" />
+      <recent name="C:\E盘(文件)\IdeaProjects\Yimning\FaceMaskSample\lib" />
+      <recent name="C:\E盘(文件)\IdeaProjects\FaceMaskSample\images" />
+      <recent name="C:\E盘(文件)\IdeaProjects\FaceMaskSample\src\main\java\com\baidu\test\util" />
+      <recent name="C:\E盘(文件)\IdeaProjects\FaceMaskSample\face\jar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="CaptureBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cameratest.CaptureBasic" />
+      <module name="FaceMaskSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cameratest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FaceMaskSample" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baidu.test.FaceMaskSample" />
+      <module name="FaceMaskSample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavavcCameraTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.camera.testing.JavavcCameraTest" />
+      <module name="FaceMaskSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.camera.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FaceMaskSample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.main" />
+      <module name="FaceMaskSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cameratest.test" />
+      <module name="FaceMaskSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cameratest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testCap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cameratest.testCap" />
+      <module name="FaceMaskSample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cameratest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FaceMaskSample" />
+      <item itemvalue="Application.CaptureBasic" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.JavavcCameraTest" />
+      <item itemvalue="Application.testCap" />
+      <item itemvalue="Application.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.testCap" />
+        <item itemvalue="Application.JavavcCameraTest" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.CaptureBasic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f346eee-a322-4d2f-b425-8d90336fd764" name="Default Changelist" comment="" />
+      <created>1594353041895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594353041895</updated>
+      <workItem from="1594353043673" duration="25559000" />
+      <workItem from="1594606734195" duration="2721000" />
+      <workItem from="1594609981149" duration="2330000" />
+      <workItem from="1594615479045" duration="2514000" />
+      <workItem from="1594618407226" duration="4376000" />
+      <workItem from="1594622940991" duration="997000" />
+      <workItem from="1594623943661" duration="4395000" />
+      <workItem from="1594638635667" duration="14547000" />
+      <workItem from="1594695554010" duration="18585000" />
+      <workItem from="1594825916119" duration="1294000" />
+      <workItem from="1595248502483" duration="13701000" />
+      <workItem from="1595332945875" duration="458000" />
+      <workItem from="1595333600057" duration="33000" />
+      <workItem from="1595333698516" duration="5843000" />
+      <workItem from="1596452925587" duration="4491000" />
+      <workItem from="1597729680665" duration="1350000" />
+      <workItem from="1598708417599" duration="2695000" />
+      <workItem from="1598711540123" duration="4002000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="0" key="#HTTP_Proxy" timestamp="1594826631109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="0" key="#HTTP_Proxy/0.0.1366.728@0.0.1366.728" timestamp="1594826631109" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1598708865853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1598708865853" />
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1594373905644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594373905644" />
+    <state x="80" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598709533176">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="80" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598709533176" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1594379165110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1594379165110" />
+    <state x="588" y="143" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598709531559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="588" y="143" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1598709531559" />
+    <state x="513" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1594360713158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="75" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1594360713158" />
+    <state x="314" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595258129315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1595258129315" />
+    <state x="462" y="222" width="441" height="333" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594362340498">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="222" width="441" height="333" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1594362340498" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594365297859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594365297859" />
+    <state x="413" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1594361031427">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="119" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1594361031427" />
+    <state x="437" y="79" key="DetectedRootsChooserDialog" timestamp="1594637293399">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="79" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1594637293399" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1594617681774">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1594617681774" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598717802822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598717802822" />
+    <state width="1323" height="97" key="GridCell.Tab.0.bottom" timestamp="1598719850251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="97" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598719850251" />
+    <state width="1323" height="97" key="GridCell.Tab.0.center" timestamp="1598719850251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="97" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598719850251" />
+    <state width="1323" height="97" key="GridCell.Tab.0.left" timestamp="1598719850250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="97" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598719850250" />
+    <state width="1323" height="97" key="GridCell.Tab.0.right" timestamp="1598719850251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="97" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598719850251" />
+    <state width="1323" height="268" key="GridCell.Tab.1.bottom" timestamp="1598709855462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="268" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598709855462" />
+    <state width="1323" height="268" key="GridCell.Tab.1.center" timestamp="1598709855461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="268" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598709855461" />
+    <state width="1323" height="268" key="GridCell.Tab.1.left" timestamp="1598709855461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="268" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598709855461" />
+    <state width="1323" height="268" key="GridCell.Tab.1.right" timestamp="1598709855461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="268" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598709855461" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1598711654799">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1598711654799" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1598718552421">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598718552421" />
+    <state x="482" y="141" key="chooseDestDirectoryDialog" timestamp="1594364597911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="141" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1594364597911" />
+    <state x="381" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594359695789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="257" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1594359695789" />
+    <state x="57" y="0" key="new project wizard" timestamp="1594826649550">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1594826649550" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1594638775395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1594638775395" />
+  </component>
+</project>
